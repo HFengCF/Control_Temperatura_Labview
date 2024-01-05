@@ -13,6 +13,11 @@
 		<Item Name="Controles" Type="Folder">
 			<Item Name="Estados Monitor.ctl" Type="VI" URL="../Controles/Estados Monitor.ctl"/>
 		</Item>
+		<Item Name="Documentos" Type="Folder">
+			<Item Name="Assignment_DAQmx_Hardware_v3.pdf" Type="Document" URL="../Documentos/Assignment_DAQmx_Hardware_v3.pdf"/>
+			<Item Name="Flowchart.png" Type="Document" URL="../Documentos/Flowchart.png"/>
+			<Item Name="Monitor_States.png" Type="Document" URL="../Documentos/Monitor_States.png"/>
+		</Item>
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="Comprobar Temperatura Correcta.vi" Type="VI" URL="../SubVIs/Comprobar Temperatura Correcta.vi"/>
 			<Item Name="Edit Data.vi" Type="VI" URL="../SubVIs/Edit Data.vi"/>
