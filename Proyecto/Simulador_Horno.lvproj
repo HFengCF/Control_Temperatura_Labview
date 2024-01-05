@@ -15,6 +15,7 @@
 		</Item>
 		<Item Name="Documentos" Type="Folder">
 			<Item Name="Assignment_DAQmx_Hardware_v3.pdf" Type="Document" URL="../Documentos/Assignment_DAQmx_Hardware_v3.pdf"/>
+			<Item Name="Error handled by software.pdf" Type="Document" URL="../Documentos/Error handled by software.pdf"/>
 			<Item Name="Flowchart.png" Type="Document" URL="../Documentos/Flowchart.png"/>
 			<Item Name="Monitor_States.png" Type="Document" URL="../Documentos/Monitor_States.png"/>
 		</Item>
